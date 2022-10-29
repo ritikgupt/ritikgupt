@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritik Gupta</h1><h2>email:ritik.gupta2018@vitstudent.ac.in</h2><h2>Contact Num: 8949102331</h2>
+<h1 align="center">Hi 👋, I'm Ritik Gupta</h1><h2>email:ritikgupta89369@gmail.com</h2><h2>Contact Num: 8949102331</h2>
 <h3 align="center">Backend Web Developer And Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikgupt&label=Profile%20views&color=0e75b6&style=flat" alt="ritikgupt" /> </p>
